@@ -1,0 +1,9 @@
+﻿  czlowiek.cpp
+  gracz.cpp
+  komputer.cpp
+D:\Private projects (for CV)\repos\Gra_reversi\projekt2\projekt2\komputer.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  menedzer.cpp
+  plansza.cpp
+  projekt2.cpp
+  Generating Code...
+  projekt2.vcxproj -> D:\Private projects (for CV)\repos\Gra_reversi\projekt2\x64\Debug\projekt2.exe

@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED4CFDD-7038-480A-AA80-65B7A86A15C2}|TestReversi\\TestReversi.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\TestReversi\\TestReversi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED4CFDD-7038-480A-AA80-65B7A86A15C2}|TestReversi\\TestReversi.vcxproj|solutionrelative:TestReversi\\TestReversi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\menedzer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\menedzer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\projekt2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\projekt2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\plansza.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\plansza.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\plansza.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\plansza.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\czlowiek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\czlowiek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\komputer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\komputer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\menedzer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\menedzer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\komputer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\komputer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\gracz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\gracz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\gracz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D297F1C3-7897-4A46-8B22-87CC52836DCD}|projekt2\\projekt2.vcxproj|solutionrelative:projekt2\\gracz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestReversi.cpp",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\TestReversi\\TestReversi.cpp",
+              "RelativeDocumentMoniker": "TestReversi\\TestReversi.cpp",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\TestReversi\\TestReversi.cpp",
+              "RelativeToolTip": "TestReversi\\TestReversi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T21:35:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "plansza.h",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\plansza.h",
+              "RelativeDocumentMoniker": "projekt2\\plansza.h",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\plansza.h",
+              "RelativeToolTip": "projekt2\\plansza.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T21:28:28.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "plansza.cpp",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\plansza.cpp",
+              "RelativeDocumentMoniker": "projekt2\\plansza.cpp",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\plansza.cpp",
+              "RelativeToolTip": "projekt2\\plansza.cpp",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAEwM0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T21:28:28.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "menedzer.h",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\menedzer.h",
+              "RelativeDocumentMoniker": "projekt2\\menedzer.h",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\menedzer.h",
+              "RelativeToolTip": "projekt2\\menedzer.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T21:28:28.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menedzer.cpp",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\menedzer.cpp",
+              "RelativeDocumentMoniker": "projekt2\\menedzer.cpp",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\menedzer.cpp",
+              "RelativeToolTip": "projekt2\\menedzer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T21:28:28.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "komputer.h",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\komputer.h",
+              "RelativeDocumentMoniker": "projekt2\\komputer.h",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\komputer.h",
+              "RelativeToolTip": "projekt2\\komputer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T21:28:28.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "komputer.cpp",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\komputer.cpp",
+              "RelativeDocumentMoniker": "projekt2\\komputer.cpp",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\komputer.cpp",
+              "RelativeToolTip": "projekt2\\komputer.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T21:28:28.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gracz.h",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\gracz.h",
+              "RelativeDocumentMoniker": "projekt2\\gracz.h",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\gracz.h",
+              "RelativeToolTip": "projekt2\\gracz.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T21:28:28.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gracz.cpp",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\gracz.cpp",
+              "RelativeDocumentMoniker": "projekt2\\gracz.cpp",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\gracz.cpp",
+              "RelativeToolTip": "projekt2\\gracz.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T21:28:28.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "czlowiek.h",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\czlowiek.h",
+              "RelativeDocumentMoniker": "projekt2\\czlowiek.h",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\czlowiek.h",
+              "RelativeToolTip": "projekt2\\czlowiek.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T21:28:28.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "czlowiek.cpp",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\czlowiek.cpp",
+              "RelativeDocumentMoniker": "projekt2\\czlowiek.cpp",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\czlowiek.cpp",
+              "RelativeToolTip": "projekt2\\czlowiek.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T21:28:28.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "projekt2.cpp",
+              "DocumentMoniker": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\projekt2.cpp",
+              "RelativeDocumentMoniker": "projekt2\\projekt2.cpp",
+              "ToolTip": "D:\\Private projects (for CV)\\repos\\Gra_reversi\\projekt2\\projekt2\\projekt2.cpp",
+              "RelativeToolTip": "projekt2\\projekt2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T21:28:28.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
