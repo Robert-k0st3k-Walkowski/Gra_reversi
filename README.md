@@ -1,6 +1,6 @@
 # IMPLEMENTACJA GRY "REVERSI" 🎮
 
-To repozytorium zawiera moją implementację gry "Reversi" jako ostateczny projekt na zajęcia: "Programowanie obiektowe 1". Jest to prosta implementacja popularnej gry "Reversi" (zwanej również "Chińskimi szachami") w języku C++ w postaci aplikacji konsolowej.
+To repozytorium zawiera moją implementację gry "Reversi". Jest to prosta implementacja tzw. "Chińskich szachów" w języku C++ w postaci aplikacji konsolowej.
 
 <br> Poza samą grą są tutaj również zaimplementowane pryzkładowe testy jednostkowe, sprawdzające poprawność działania podstawowych funkcji gry w różnych sytuacjach. 📝
 
